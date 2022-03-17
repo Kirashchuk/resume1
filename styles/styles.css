@@ -4,7 +4,13 @@ body {
 	width: 1200px;
 	margin: 30px;
 }
-
+button {
+	background-color: #130d0d;
+	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+	/* padding: 90px 40px; */
+	margin-left: 400px;
+	color: #fb6d3a;
+}
 /* main styles */
 @media only screen and (min-device-width: 480px) and (max-device-width: 12500px) {
 	.main {
